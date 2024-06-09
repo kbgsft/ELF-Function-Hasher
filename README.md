@@ -16,6 +16,10 @@ $ ./elf_func_hash.py {elf binary}<br>
 $ ./elf_func_hash.py {elf binary} {function name}<br>
 ![image](https://github.com/kbgsft/ELF-Function-Hasher/assets/17945347/a8a487cd-cf81-48b2-9e3d-2962fd73c1c4)
 
+- Using when comparison<br>
+![image](https://github.com/kbgsft/ELF-Function-Hasher/assets/17945347/c7b4a79f-379e-4340-bb81-75c67423d002)
+
+
 # Relase history
 - 2024-06-09 : v1.2<br>
   : Hash algorithm change (sha256 -> md5)<br>
