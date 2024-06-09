@@ -19,6 +19,9 @@ $ ./elf_func_hash.py {elf binary} {function name}<br>
 - Using when comparison<br>
 ![image](https://github.com/kbgsft/ELF-Function-Hasher/assets/17945347/c7b4a79f-379e-4340-bb81-75c67423d002)
 
+- using when comparing function<br>
+![image](https://github.com/kbgsft/ELF-Function-Hasher/assets/17945347/93c74680-9afe-4759-90c0-0741d5ed46b6)
+
 
 # Relase history
 - 2024-06-09 : v1.2<br>
